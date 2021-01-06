@@ -193,6 +193,7 @@ Select your operating system:
 
          .. figure:: /images/compass/osx-install-dialog.png
             :figwidth: 600px
+            :border:
 
       #. Eject the disk image.
 
